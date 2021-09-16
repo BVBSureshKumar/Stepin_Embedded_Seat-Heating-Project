@@ -18,7 +18,7 @@ Folder                   | Description
 # BADGES
 [![C/C++ CI](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/c-cpp.yml)
 [![CI](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/main.yml/badge.svg)](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/main.yml)
-
+[![GitInspector](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/git%20inspector.yml)
 
 
 ## Contributors List and Summary
