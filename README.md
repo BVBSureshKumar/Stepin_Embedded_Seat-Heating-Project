@@ -16,10 +16,10 @@ Folder                   | Description
 
 
 # BADGES
-[![CI](https://github.com/Aarthi-Mamidala/Stepin-Seat_Heating_Project/actions/workflows/main.yml/badge.svg)](https://github.com/Aarthi-Mamidala/Stepin-Seat_Heating_Project/actions/workflows/main.yml)
-[![C/C++ CI](https://github.com/Aarthi-Mamidala/Stepin-Seat_Heating_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Aarthi-Mamidala/Stepin-Seat_Heating_Project/actions/workflows/c-cpp.yml)
-[![GitInspector](https://github.com/Aarthi-Mamidala/Stepin-Seat_Heating_Project/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/Aarthi-Mamidala/Stepin-Seat_Heating_Project/actions/workflows/git%20inspector.yml)
-[![Code Quality](https://www.code-inspector.com/project/28088/score/svg)](https://www.code-inspector.com)
+[![CI]
+[![C/C++ CI]
+[![GitInspector](https://github.com/Aarthi-Mamidala/Stepin-Seat_Heating_Project/actions/workflows/git%20inspector.yml/badge.svg)]
+[![Code Quality]
 
 ## Contributors List and Summary
 |PS no. |  Name   |    Features    |
