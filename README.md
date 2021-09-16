@@ -19,7 +19,7 @@ Folder                   | Description
 [![C/C++ CI](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/c-cpp.yml)
 [![CI](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/main.yml/badge.svg)](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/main.yml)
 [![GitInspector](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/git%20inspector.yml)
-
+![Code Quallity](https://www.code-inspector.com/project/28974/score/svg)
 
 ## Contributors List and Summary
 |PS no. |  Name   |    Features    |
