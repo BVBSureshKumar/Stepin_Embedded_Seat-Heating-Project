@@ -16,10 +16,9 @@ Folder                   | Description
 
 
 # BADGES
-[![CI]
-[![C/C++ CI]
-[![GitInspector](https://github.com/Aarthi-Mamidala/Stepin-Seat_Heating_Project/actions/workflows/git%20inspector.yml/badge.svg)]
-[![Code Quality]
+[![C/C++ CI](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/BVBSureshKumar/Stepin_Embedded_Seat-Heating-Project/actions/workflows/c-cpp.yml)
+
+
 
 ## Contributors List and Summary
 |PS no. |  Name   |    Features    |
